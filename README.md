@@ -1,0 +1,4 @@
+installs
+========
+
+mysql install auto 
